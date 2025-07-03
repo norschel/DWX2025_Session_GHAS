@@ -1,1 +1,1 @@
-# DWX2025_Session_GHAS
+# ghas-dwx_prep
